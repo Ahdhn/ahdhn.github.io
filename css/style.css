@@ -153,6 +153,7 @@ a:hover {
 .thisauthor {
 	/* color: #111; */
 	/* text-decoration: underline; */
+	color: #00B0F0;
 	font-weight: 400;
 	text-decoration-thickness: 1px !important;
 }
@@ -260,7 +261,16 @@ a:hover {
 
 .papertitle {
 	font-weight: 400;
-	font-size: 13.6pt;
+	font-size: 14pt;
+}
+
+.thistalk {
+	display: inline-block;
+	font-weight: 400;
+	padding-bottom: 4px;
+	/* font-family: sen; */
+	color: #505050;
+	font-size: 14pt;
 }
 
 /* .talk:not(.papertitle) {
